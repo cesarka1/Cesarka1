@@ -1,4 +1,4 @@
-## Hi, I"m Kauan, but you can call me Nitierk, and I'm a Web Developer!
+## Hi, I'm Kauan, but you can call me Nitierk, and I'm a Web Developer!
 - 🌱 I'm currently learning C#, Python and Systems Modeling
 - 💞️ I'm looking to collaborate on projects
 
