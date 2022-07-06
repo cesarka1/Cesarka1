@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Nitierk
-- 👀 I’m interested in ...
+## Oii eu sou o Kauan, mas pode me chamar de Nitierk!
 - 🌱 Atualmente estou aprendendo C# e Modelagem de Sistemas
 - 💞️ Estou procurando colaborar em projetos
-- 📫 How to reach me ...
 
 <div align="center">
   <a href="https://github.com/nitierk">
@@ -12,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Nitierk-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/756848828950249482/994153236716072984/ezgif.com-gif-maker.gif">
+  <img align="right" alt="Nitierk-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/756848828950249482/994155590291034133/download20220703044456.png">
 </div>
   
   ##
