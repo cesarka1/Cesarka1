@@ -1,4 +1,4 @@
-## Oii eu sou o Kauan, mas pode me chamar de Nitierk!
+## Olá, eu sou o Kauan, mas pode me chamar de Nitierk!
 - 🌱 Atualmente estou aprendendo C# e Modelagem de Sistemas
 - 💞️ Estou procurando colaborar em projetos
 
