@@ -1,6 +1,6 @@
-## Olá, eu sou o Kauan, mas pode me chamar de Nitierk!
-- 🌱 Atualmente estou aprendendo C# e Modelagem de Sistemas
-- 💞️ Estou procurando colaborar em projetos
+## Hi, I"m Kauan, but you can call me Nitierk, and I'm a Web Developer!
+- 🌱 I'm currently learning C#, Python and Systems Modeling
+- 💞️ I'm looking to collaborate on projects
 
 <div align="center">
   <a href="https://github.com/nitierk">
