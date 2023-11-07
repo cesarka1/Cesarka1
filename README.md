@@ -8,6 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitierk&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+   <img align="center" alt="Nitierk-RADDelphie" height="30" width="30" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png">
   <img align="center" alt="Nitierk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nitierk-Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
    <img align="center" alt="Nitierk-SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
